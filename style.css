@@ -636,10 +636,6 @@ span {
     font-size: 58%;
   }
 
-  nav {
-    display: none;
-  }
-
   .home {
     flex-direction: column;
     text-align: center;
